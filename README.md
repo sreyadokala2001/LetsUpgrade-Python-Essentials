@@ -16,3 +16,7 @@ Loop Structures
 Day-5(Assignment) & Batch-7:
 
 Functions
+
+Day-6(Assignment) & Batch-7:
+
+Classes

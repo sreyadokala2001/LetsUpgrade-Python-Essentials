@@ -20,3 +20,11 @@ Functions
 Day-6(Assignment) & Batch-7:
 
 Classes
+
+Day-8(Assignment) & Batch-7:
+
+File and Exceptional Handling
+
+Day-9(Assignment) & Batch-7:
+
+Generator

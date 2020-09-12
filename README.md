@@ -12,3 +12,7 @@ Control Statements
 Day-4(Assignment) & Batch-7:
 
 Loop Structures
+
+Day-5(Assignment) & Batch-7:
+
+Functions
